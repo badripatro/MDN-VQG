@@ -1,5 +1,7 @@
-MDN-VQG
+Multimodal Differential Network for Visual Question Generation
+Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
 
+Link for Code
 Torch implementation of an "Multimodal Differential Network for Visual Question Generation" .
 Training Step:
 
