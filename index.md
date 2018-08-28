@@ -1,12 +1,6 @@
-Multimodal Differential Network for Visual Question Generation
-Badri N. Patro* ,Vinod K. Kurmi* ,Sandeep Kumar*, Vinay P. Namboodiri
+## [Multimodal Differential Network for Visual Question Generation](https://arxiv.org/abs/1808.03986)
 
-Link for Code
-Torch implementation of an "Multimodal Differential Network for Visual Question Generation" .
-Training Step:
+Badri N. Patro, Sandeep Kumar, Vinod K. Kurmi, Vinay P. Namboodiri
 
-1. Download VQG dataset from MicrosoftVQG site.
-2. Create train,val and test json file.
-3. Preprocess the MSCOCO image file using prepro/prepro_img.lua for joint model and prepro/prepro_img_att.lua for attention model.
-4. Find the exemplar(Supporting and oppsing) Image using /data/knn_image.m
-5. Run : th training.lua
+## Link for [Code](https://github.com/MDN-VQG/EMNLP-MDN-VQG)
+
