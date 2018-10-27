@@ -2,5 +2,5 @@
 
 Badri N. Patro, Sandeep Kumar, Vinod K. Kurmi, Vinay P. Namboodiri
 
-## Link for [Code](https://github.com/MDN-VQG/EMNLP-MDN-VQG)
+## Link for [MDN_VQG Code](https://github.com/badripatro/Visual_Question_Generation)
 
