@@ -28,15 +28,19 @@ Badri N. Patro, Sandeep Kumar, Vinod K. Kurmi, Vinay P. Namboodiri
 * Decoder Module: takes the target image-caption embedding and produces a sequence of question words. Our method is trained end to end.
 ![](fig/model.png) 
 
-### Result
-![](fig/result_1.png) 
+### Statistical Significance Analysis
 
+
+The mean rank of all the models on the basis of METEOR and Blue score are plotted on the x-axis. Here Joint refers to our MDN-Joint model. The colored lines between the two models represents that these models are not significantly different from each other.
 ![METEOR Score](fig/SSA_MDN_Meteor.png) 
 ![Blue Score](fig/SSA_MDN_blue.png) 
 
-The mean rank of all the models on the basis of METEOR and Blue score are plotted on the x-axis. Here Joint refers to our MDN-Joint model. The colored lines between the two models represents that these models are not significantly different from each other.
-
-![Perceptual Realism](fig/chart_mdn.png) 
+### Perceptual Realism
 Perceptual Realism Plot for human survey. Here every question has different number of responses and hence the threshold which is the half of total responses for each question is varying. This plot is only for 50 of the 100 questions involved in the survey.
 
+![Perceptual Realism](fig/chart_mdn.png)
+
+
+### Result
+![](fig/result_1.png) 
 
