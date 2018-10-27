@@ -1,4 +1,4 @@
-## Multimodal Differential Network for Visual Question Generation[pdf](https://arxiv.org/abs/1808.03986)
+## Multimodal Differential Network for Visual Question Generation [pdf](https://arxiv.org/abs/1808.03986)
 
 Badri N. Patro, Sandeep Kumar, Vinod K. Kurmi, Vinay P. Namboodiri
 
