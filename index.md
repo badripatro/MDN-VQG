@@ -5,25 +5,12 @@ Badri N. Patro, Sandeep Kumar, Vinod K. Kurmi, Vinay P. Namboodiri
 ## Link for [MDN_VQG Code](https://github.com/badripatro/Visual_Question_Generation)
 
 <p align="center">
- <img src="fig/cvpr_intro.png" width="600">
+ <img src="fig/intro.png" width="600">
 </p>
 
-<p align="center">
- <img src="fig/cvpr_intro.png" width="600">
-</p>
-
-<p align="center">
- <img src="fig/cvpr_intro.png" width="600">
-</p>
-
-<p align="center">
- <img src="fig/cvpr_intro.png" width="600">
-</p>
-
-
-![](fig/cvpr_DAN.png) 
-
-![](fig/cvpr_DAN.png) 
+![](fig/examplar.png) 
+![](fig/mot.png) 
+![](fig/result_1.png) 
 
 ### Method
 * Encoder Decoder architecture: We use Representation and Mixture modules to obtain a joint Image-Caption embedding and then a Decoder module to generate a natural language question.
