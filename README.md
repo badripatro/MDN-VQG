@@ -3,7 +3,7 @@
 
 -- [[Project Page](https://badripatro.github.io/MDN-VQG/)]
 
--- [[Paper](http://aclweb.org/anthology/D18-1434)]
+-- [[Paper: EMNLP-2018](http://aclweb.org/anthology/D18-1434)]
 
 
 
@@ -34,6 +34,26 @@ Torch implementation of an "Multimodal Differential Network for Visual Question 
     5. Run : th training.lua
 
 
+
+### Reference
+
+If you use this code as part of any published research, please acknowledge the following paper
+
+```
+@InProceedings{D18-1434,
+  author = 	"Patro, Badri Narayana
+		and Kumar, Sandeep
+		and Kurmi, Vinod Kumar
+		and Namboodiri, Vinay",
+  title = 	"Multimodal Differential Network for Visual Question Generation",
+  booktitle = 	"Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"4002--4012",
+  location = 	"Brussels, Belgium",
+  url = 	"http://aclweb.org/anthology/D18-1434"
+}
+```
 
 
 
