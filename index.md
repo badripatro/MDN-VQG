@@ -1,4 +1,4 @@
-## Multimodal Differential Network for Visual Question Generation [pdf](https://arxiv.org/abs/1808.03986)
+## Multimodal Differential Network for Visual Question Generation [[Paper: EMNLP-2018](http://aclweb.org/anthology/D18-1434 )]
 
 Badri N. Patro, Sandeep Kumar, Vinod K. Kurmi, Vinay P. Namboodiri
 
@@ -44,3 +44,21 @@ Perceptual Realism Plot for human survey. Here every question has different numb
 ### Result
 ![](fig/result_1.png) 
 
+
+### Reference
+
+```
+@InProceedings{D18-1434,
+  author = 	"Patro, Badri Narayana
+		and Kumar, Sandeep
+		and Kurmi, Vinod Kumar
+		and Namboodiri, Vinay",
+  title = 	"Multimodal Differential Network for Visual Question Generation",
+  booktitle = 	"Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"4002--4012",
+  location = 	"Brussels, Belgium",
+  url = 	"http://aclweb.org/anthology/D18-1434"
+}
+```
