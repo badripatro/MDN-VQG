@@ -5,7 +5,7 @@
 
 -- [[Paper: EMNLP-2018](http://aclweb.org/anthology/D18-1434)]
 
-
+-- [[Pseudo Code: EMNLP-2018 Paper](https://github.com/badripatro/Visual_Question_Generation)]
 
 
 ## Introduction
