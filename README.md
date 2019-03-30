@@ -37,8 +37,6 @@ Torch implementation of an "Multimodal Differential Network for Visual Question 
 
 ### Reference
 
-If you use this code as part of any published research, please acknowledge the following paper
-
 ```
 @InProceedings{D18-1434,
   author = 	"Patro, Badri Narayana
