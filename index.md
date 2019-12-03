@@ -40,6 +40,13 @@ Perceptual Realism Plot for human survey. Here every question has different numb
 
 ![Perceptual Realism](fig/chart_mdn.png)
 
+For human evalutions, we have created 10 different google forms each have 10 random set of image-question pairs. 
+The link for the human evalation form is given as: 
+[Human Survey](https://vinodkkurmi.github.io/vqg)
+
+
+
+
 
 ### Result
 ![](fig/result_1.png) 
