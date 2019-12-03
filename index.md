@@ -35,21 +35,22 @@ The mean rank of all the models on the basis of METEOR and Blue score are plotte
 ![METEOR Score](fig/SSA_MDN_Meteor.png) 
 ![Blue Score](fig/SSA_MDN_blue.png) 
 
-### Perceptual Realism
+
+
+### Human Survey
+For human evalutions, we have created 10 different google forms each have 10 random set of image-question pairs. 
+The link for the human evalation form is given as: 
+[Human Survey](https://vinodkkurmi.github.io/vqg)
+
+#### Perceptual Realism
 Perceptual Realism Plot for human survey. Here every question has different number of responses and hence the threshold which is the half of total responses for each question is varying. This plot is only for 50 of the 100 questions involved in the survey.
 
 ![Perceptual Realism](fig/chart_mdn.png)
 
-<br>
-For human evalutions, we have created 10 different google forms each have 10 random set of image-question pairs. 
-The link for the human evalation form is given as: 
-[Human Survey](https://vinodkkurmi.github.io/vqg)
-</br>
-
-
-
 ### Result
 ![](fig/result_1.png) 
+
+
 
 
 ### Reference
